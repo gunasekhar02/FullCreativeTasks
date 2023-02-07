@@ -1,6 +1,6 @@
 # Happy learning!
 
-## those i have learned were pushed to this repository
+## which  i had learnt were pushed to this repository
 
 ### includes example codes of
 
